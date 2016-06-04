@@ -2,7 +2,7 @@
 
 -Stage: Demo
 -Version: Demo1.0
-    1. high concept
+    1. high concept\n
     2. interaction
     3. nessisary UI
     4. basic shapes
